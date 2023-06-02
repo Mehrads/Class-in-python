@@ -9,7 +9,7 @@ To begin, in order to create a class object, all you have to do is type the foll
 ```python 
 class CreateProfile:
 ```
-The name of the class is subjective but the general rule regarding the format of the name is to follow something called [camelCase](https://en.wikipedia.org/wiki/Camel_case#:~:text=Camel%20case%20(stylized%20as%20camelCase,iPhone%22%20and%20%22eBay%22).
+The name of the class is subjective but the general rule regarding the format of the name is to follow something called [camelCase]([url](https://en.wikipedia.org/wiki/Camel_case#:~:text=Camel%20case%20(stylized%20as%20camelCase,iPhone%22%20and%20%22eBay%22)).
 
 Usually, when creating a class, you will have to define a function called `__init__` with `self` as the initial argument.
 
